@@ -85,7 +85,7 @@ The dataset is uploaded **via the application** and is not stored in the reposit
 The application can be deployed for free using **Streamlit Community Cloud**:
 
 * Push the code to a public GitHub repository
-* Deploy via (https://intelligent-manufacturing-dataset-analysis.streamlit.app/)
+* Deploy via: https://intelligent-manufacturing-dataset-analysis.streamlit.app/
 * Share the generated public URL
 
 ---
